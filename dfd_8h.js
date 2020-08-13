@@ -1,0 +1,57 @@
+var dfd_8h =
+[
+    [ "InterpretedDFDChannel", "structInterpretedDFDChannel.html", "structInterpretedDFDChannel" ],
+    [ "InterpretDFDResult", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885", [
+      [ "i_LITTLE_ENDIAN_FORMAT_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885add0c511dc58a942021df8b0d4d46b11e", null ],
+      [ "i_BIG_ENDIAN_FORMAT_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a094bb0b6af9e409606c77ee42e0c2803", null ],
+      [ "i_PACKED_FORMAT_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a612b624328d27c2f161e539c67106275", null ],
+      [ "i_SRGB_FORMAT_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a3c15c06fb83f5b4ca9541eb83b97d983", null ],
+      [ "i_NORMALIZED_FORMAT_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885aee1d46c7de9e9af5540b3e5cb34dd49a", null ],
+      [ "i_SIGNED_FORMAT_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a4644990ab274ccb2e43795479ecf2679", null ],
+      [ "i_FLOAT_FORMAT_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a04d79d8c4a60bbaf6df834b52b74e8a5", null ],
+      [ "i_UNSUPPORTED_ERROR_BIT", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885aa3b2e9e2832f972a1fb6e5bc2f7af153", null ],
+      [ "i_UNSUPPORTED_NONTRIVIAL_ENDIANNESS", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885aaa9525c2c7f46a55190cc8dd0c302f52", null ],
+      [ "i_UNSUPPORTED_MULTIPLE_SAMPLE_LOCATIONS", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a0bac5c476d9047888a3b4d1e9b4a4e69", null ],
+      [ "i_UNSUPPORTED_MULTIPLE_PLANES", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a4521e78ca0efe59d81c734f0415a4927", null ],
+      [ "i_UNSUPPORTED_CHANNEL_TYPES", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a5ab79ecd9d298dab8fe96bfcbd2fec2b", null ],
+      [ "i_UNSUPPORTED_MIXED_CHANNELS", "dfd_8h.html#a5fb66436d15b003cea05fe5b9087b885a9a264528cb77ba9c211646e6e9d3a643", null ]
+    ] ],
+    [ "VkCompScheme", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391", [
+      [ "c_BC1_RGB", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a105c7eebe0aa422bc30572679b532722", null ],
+      [ "c_BC1_RGBA", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a72f6502844aa71f765580da56dd668db", null ],
+      [ "c_BC2", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a7314f28ad22147a50bdf9eaf488c46a0", null ],
+      [ "c_BC3", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a14bf0dc59e60ea97d279d6c3bc2d6fc1", null ],
+      [ "c_BC4", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a8039d56f3f416308075cc6895553e3b6", null ],
+      [ "c_BC5", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391ab8c8a6acd4035b7f86bfb36020b9ea11", null ],
+      [ "c_BC6H", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a59f0de93bfa089be78259a20de1936f4", null ],
+      [ "c_BC7", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a675534900820782dd832174eb250f599", null ],
+      [ "c_ETC2_R8G8B8", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a72a1a52beb4323dd0c637f939d886c71", null ],
+      [ "c_ETC2_R8G8B8A1", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a7fff473162148287b04b11000c08a81e", null ],
+      [ "c_ETC2_R8G8B8A8", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a121c53d052a9147a4d384be0de41f5d4", null ],
+      [ "c_EAC_R11", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391ab4277c26beebc44fd0dc8d1859d1684e", null ],
+      [ "c_EAC_R11G11", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a91918073d38cec374819eaad105cd629", null ],
+      [ "c_ASTC", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a17b9e51a5bce645b7bd5f76cbd23ae1f", null ],
+      [ "c_ETC1S", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391abb3e2a50f6265b3bad9e714038c68e74", null ],
+      [ "c_PVRTC", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a03387a1938d1a6a83a6275a4f5d9f19c", null ],
+      [ "c_PVRTC2", "dfd_8h.html#a827684b6627a2b30e5240e877bad6391a7996f5740f452467ff2914e1fa1cf714", null ]
+    ] ],
+    [ "VkSuffix", "dfd_8h.html#acdd657246eb8bac137bc91593446e97f", [
+      [ "s_UNORM", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fa57a05691eead2750b75a3760d3b64d7e", null ],
+      [ "s_SNORM", "dfd_8h.html#acdd657246eb8bac137bc91593446e97faa6384fb1cb68d717c758c96f98bdceb1", null ],
+      [ "s_USCALED", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fa266cbb476e4057484f23d8bf36de1cc1", null ],
+      [ "s_SSCALED", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fa34aee7e20a289ce32a016fa848e16624", null ],
+      [ "s_UINT", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fa0aca2fed2b30f2f4a0e8583631ee1a67", null ],
+      [ "s_SINT", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fafbefea0ab15730370547eb56fe5f84be", null ],
+      [ "s_SFLOAT", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fa6b6d3fcb30275b9a786783ec93431d5a", null ],
+      [ "s_UFLOAT", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fad64d75f49b3170d9e420e5466e247016", null ],
+      [ "s_SRGB", "dfd_8h.html#acdd657246eb8bac137bc91593446e97fabea47b2afb93339b6b593070b5ac7bc1", null ]
+    ] ],
+    [ "createDFDCompressed", "dfd_8h.html#a5d5e6e0859ca4e253709ba453da453d3", null ],
+    [ "createDFDDepthStencil", "dfd_8h.html#a5a79405b41c45c39f1440b971f6e6d0c", null ],
+    [ "createDFDPacked", "dfd_8h.html#af48a6be4b6e873ce9e34a3de996ba1f4", null ],
+    [ "createDFDUnpacked", "dfd_8h.html#a368a8cb66b10613c6d3fd8aa027326e2", null ],
+    [ "getDFDComponentInfoUnpacked", "dfd_8h.html#a23a5129503577209bc1cffc00d4c88d7", null ],
+    [ "interpretDFD", "dfd_8h.html#a05314c6736bcd2f24c0ec146770e8df5", null ],
+    [ "printDFD", "dfd_8h.html#a525d9375b2b7afb13aa4dd7885f6dcd4", null ],
+    [ "vk2dfd", "dfd_8h.html#a9340b9ff5104ed2ced574a25d3589cf3", null ]
+];
